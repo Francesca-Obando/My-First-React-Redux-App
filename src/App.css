@@ -1,0 +1,16 @@
+
+body{
+  background-color: rgb(255, 224, 188) !important;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.App .col-4 img{
+  width: 200px;
+  height: 150px;
+  display: flex;
+}
